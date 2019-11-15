@@ -1,0 +1,6 @@
+Component	Adjustment	Final Mark	Out of
+ Assignment 1	-	73.5	100
+ Assignment 2	-	89	100
+ Assignment 3	-	89.5	100
+ Assignment 4	-	92	100
+ Assignment 5	-	95	100
